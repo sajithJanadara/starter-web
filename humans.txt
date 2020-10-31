@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sajith -- Admin -- @Sajith
 
 # THANKS
 
