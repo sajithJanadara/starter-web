@@ -15,3 +15,7 @@
 	this is simple webproject. Deployment can be on any web server or even local file system
 
 ## How to contribute
+
+## Copyright
+
+	
