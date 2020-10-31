@@ -8,6 +8,10 @@
 
 ## Purpose
 
+	As stated above , the main purpose is to providing simple example for git traning demos
+
 ## Deployment
+
+	this is simple webproject. Deployment can be on any web server or even local file system
 
 ## How to contribute
