@@ -4,6 +4,8 @@
 
 ## Introduction
 
+	This example is show differnt parts ot git repository and various commands using web projects.
+
 ## Purpose
 
 ## Deployment
