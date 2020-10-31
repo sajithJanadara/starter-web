@@ -16,6 +16,8 @@
 
 ## How to contribute
 
+	Fork this and Issue full request
+
 ## Copyright
 
 	
