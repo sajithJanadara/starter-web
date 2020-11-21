@@ -20,4 +20,4 @@
 
 ## Copyright
 
-	
+	2020 Git.Trainnig. All rights reserved.
